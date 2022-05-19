@@ -50,6 +50,7 @@ public class CabService {
 
 
     static {
+// Hard Coded input
 //        cabs = new HashMap<>();
 //        Cab c1 = new Cab("Ashok", "98989898","Car", "HR-26 0091", true);
 //        c1.setLocationId(100);
