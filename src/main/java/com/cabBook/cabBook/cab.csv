@@ -1,0 +1,9 @@
+locationId,driverName,contactNumber,vehicleType,vehicleNumber,isAvailable
+100,Ashok,98989898,Car,HR-26 0091,true
+201,mani,90909878,auto,HR-26 7896,TRUE
+301,lala,9876534,car,HR-26 2345,TRUE
+11,ashih,78902564,car,HR-26 8798,FALSE
+101,rahul,987654,auto,HR-26 6754,FALSE
+110,duaa,78990245,bike,HR-26 7891,TRUE
+102,hero,87902453,bike,HR-26 9898,FALSE
+150,mohit,87902453,auto,HR-26 5678,TRUE
